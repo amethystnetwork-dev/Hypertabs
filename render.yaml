@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: hypertabs
+    env: node
+    buildCommand: npm install
+    startCommand: npm start

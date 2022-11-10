@@ -1,0 +1,7 @@
+{
+    "name": "Hypertabs",
+    "description": "Unofficial Hypertabs easy deployment version with TompHTTP bare server included.",
+    "repository": "https://github.com/amethystnetwork-dev/Hypertabs",
+    "logo": "https://github.com/amethystnetwork-dev/Hypertabs/blob/main/static/icon.png?raw=true",
+    "keywords": ["amethystnetwork-dev"]
+}

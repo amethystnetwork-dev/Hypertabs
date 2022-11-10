@@ -1,0 +1,25 @@
+{
+  "name": "hypertabs",
+  "version": "1.0.0",
+  "description": "Unofficial Hypertabs easy deployment version with TompHTTP bare server included.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "files": ["static", "src", ".gitignore", "app.json", ".replit", "replit.nix", "Procfile"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amethystnetwork-dev/Hypertabs"
+  },
+  "keywords": ["amethystnetwork-dev"],
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@tomphttp/bare-server-node": "1.0.4-deps1",
+    "serve-static": "^1.15.0"
+  },
+  "engines": {
+		"npm": ">=8.0.0",
+		"node": ">=18.0.0"
+	}
+}
