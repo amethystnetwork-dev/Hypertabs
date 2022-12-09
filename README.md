@@ -1,3 +1,8 @@
+<!-- Notice for idiots -->
+# NOTICE:
+
+You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They are static hosts, they just act as a web facing file system, you need the actual proxy for this to work.
+
 <!--
                                 _     _                     _       _   _          _                               _    
      /\                        | |   | |                   | |     | \ | |        | |                             | |   
