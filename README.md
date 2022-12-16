@@ -33,7 +33,6 @@ You CANNOT deploy to Vercel, Netifly, GitHub Pages, or Cloudflare pages. They ar
     <a href="https://amethystnetwork-dev.github.io/utils/deploy/heroku?repo=Hypertabs"><img height="30px" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"><img></a>
     <a href="https://amethystnetwork-dev.github.io/utils/deploy/replit?repo=Hypertabs"><img height="30px" src="https://amethystnetwork-dev.github.io/assets/replit.svg"><img></a>
     <a href="https://railway.app/new/template/EBnCyy?referralCode=8zUUBB"><img height="30px" src="https://img.shields.io/badge/Railway-%234f0599.svg?style=for-the-badge&logo=railway&logoColor=white"><img></a>
-    <a href="https://glitch.com/edit/#!/import/github/amethystnetwork-dev/Hypertabs"><img height="30px" src="https://img.shields.io/badge/glitch-3333FF.svg?style=for-the-badge&logo=glitch&logoColor=ffffff"><img></a>
 </div>
 
 ## Discord Server
