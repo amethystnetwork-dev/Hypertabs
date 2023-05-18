@@ -32,7 +32,7 @@
 
   var tabC = 1;
   const defaultTabProperties = {
-    title: "New Hypertab",
+    title: "New NotGoogle Tab",
     favicon: false,
   };
 

@@ -2,7 +2,7 @@
 <html lang="en">
 	<head>
         <!--
-    Incognito
+    NotGoogle
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -16,7 +16,7 @@
         -->
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<title>New Hypertab</title>
+		<title>New NotGoogle Tab</title>
 		<link rel="stylesheet" href="/css/css.css" />
 	</head>
 
@@ -39,7 +39,7 @@
 		</div>
 
 		<div class="center">
-			<h1 id="headtxt">Hypertabs</h1>
+			<img src="/notGoogle.png" width="335" height="auto">
 			<forum
 				id="input"
 				onkeydown="if(event.key == 'Enter'){location.href=`${__uv$config.prefix}${xor.encode(window.parent.searchEngine+document.getElementById('inputb').value)}`}"
@@ -58,24 +58,17 @@
 				<input type="submit" style="display: none" />
 			</forum>
 			<div class="btns">
-				<!-- idea: maybe include __uv$config.prefix with xor.encode -->
+				<!-- idea: maybe include __uv$config.prefix with xor.encode
 				<div
 					onclick="location.href=__uv$config.prefix+xor.encode('https://music.youtube.com')"
 					class="crm"
 				>
 					<img class="icn" src="/bookmark.png" />
 					<a class="btn">Music</a>
-				</div>
+				</div> -->
 				<div onclick="location.href='/c.html'" class="crm">
 					<img class="icn" src="/icon.png" />
-					<a class="btn">Contributors</a>
-				</div>
-				<div
-					onclick="location.href=__uv$config.prefix+xor.encode('https://discord.gg/J3VPy5Vy8x')"
-					class="crm"
-				>
-					<img class="icn" src="/dcd.png" />
-					<a class="btn">Join Discord</a>
+					<a class="btn">Apps & Games</a>
 				</div>
 			</div>
 		</div>

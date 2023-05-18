@@ -17,7 +17,7 @@
                                               |___/                                                                     
 */
 
-console.log(`Hypertabs
+console.log(`NotGoogle
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
@@ -285,9 +285,9 @@ function skipAd() {
 	}
 }
 let newTab = (url, uxor = true) => {
-	// creates a new hypertab!!
+	// creates a New NotGoogle Tab!!
 	chromeTabs.addTab({
-		title: 'New Hypertab',
+		title: 'New NotGoogle Tab',
 		favicon: 'favicon.ico',
 	});
 
